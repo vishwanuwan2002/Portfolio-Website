@@ -63,7 +63,7 @@ export const Hero = () => {
   return (
     <section
       id="home"
-      className="relative min-h-screen flex items-center pt-28 pb-16 overflow-hidden py-0"
+      className="relative min-h-screen flex items-center pt-28 pb-16 py-0"
       style={{ background: "var(--gradient-hero)" }}
     >
       {/* Decorative blurred orbs */}
@@ -84,7 +84,7 @@ export const Hero = () => {
         variants={containerVariants}
         initial="hidden"
         animate="visible"
-        className="relative max-w-7xl mx-auto w-full px-6 md:px-12 lg:px-20 grid lg:grid-cols-[1.3fr_1fr] gap-12 lg:gap-16 items-center"
+        className="relative max-w-7xl mx-auto w-full px-6 md:px-12 lg:px-20 grid grid-cols-1 lg:grid-cols-[1.3fr_1fr] gap-12 lg:gap-16 items-center"
       >
         {/* Left: Text */}
         <div className="space-y-7">
