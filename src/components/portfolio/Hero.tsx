@@ -126,6 +126,10 @@ export const Hero = () => {
             </motion.p>
           </div>
 
+          <div className="block lg:hidden my-8">
+            <HeroImage profileImage={profile} />
+          </div>
+
           <motion.p
             variants={itemVariants}
             className="text-base md:text-lg text-muted-foreground max-w-xl"
@@ -181,7 +185,9 @@ export const Hero = () => {
         </div>
 
         {/* Right: Image */}
-        <HeroImage profileImage={profile} />
+        <div className="hidden lg:block">
+          <HeroImage profileImage={profile} />
+        </div>
       </motion.div>
     </section>
   );
