@@ -96,4 +96,4 @@ Common places to personalize the site:
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+Copyright (c) 2026 Vishwa Nuwan. All rights reserved. See [LICENSE](LICENSE) for details.
