@@ -1,6 +1,13 @@
 # Portfolio Website
 
+[![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-5.0-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)](LICENSE)
+
 This is a personal portfolio website built with React, TypeScript, Vite, Tailwind CSS, shadcn/ui, and Framer Motion. It is designed as a responsive single-page portfolio with sections for introduction, about, skills, projects, and contact information.
+
 
 ## Features
 
